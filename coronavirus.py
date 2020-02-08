@@ -66,5 +66,5 @@ sliders = [dict(
 fig.data[0].visible=True
 
 #SHOW THE FIGURE
-fig.update_layout(sliders=sliders,title='Coronavirus Spreading Map'+'<br>geodose.com',height=600)
+fig.update_layout(sliders=sliders,title='Coronavirus Spreading Map',height=600)
 fig.show()
