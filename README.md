@@ -10,4 +10,5 @@ pandas, plotly
 
 Install it in command line with:
 >pip install pandas
+
 >pip install plotly
