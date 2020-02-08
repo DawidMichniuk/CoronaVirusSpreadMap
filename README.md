@@ -6,5 +6,8 @@ Based on: https://www.geodose.com/2020/02/tracking-coronavirus-python-map.html?f
 
 
 **Requires:**
-pandas
-plotly
+pandas, plotly
+
+Install it in command line with:
+>pip install pandas
+>pip install plotly
